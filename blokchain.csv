@@ -1,0 +1,13 @@
+"id","passenger_name","flight","passport","departure","destination","luggage_id"
+6,Petrov Petr,"74ccyyccy",490910,SPB,MSC,9292929
+4,Ivanov Ivan,rytryrywg898,456790,PRM,ANT,9289818
+5,Testov Test,rytryrywg898,456890,PRM,ANT,9999111
+7,Chernova Ann,"74ccyyccy",345902,SPB,MSC,7665352
+8,Shakarimov Dmitry,HHT754,877500,MSC,SPB,5453455
+9,Artemewa Sofi,HHT754,757489,MSC,SPB,5352000
+10,Filipova Tatyana,HHT754,636532,MSC,SPB,5424534
+11,Tarasova Natalia,"567GHHG",645641,LND,MSC,5435342
+12,Arhipov Andrew,"567GHHG",646477,LND,MSC,5343567
+1,KuklevRoman,r7r8r7,898298,MSС,DUB,2344224
+2,Soldatenko Artem,r7r8r7,874382,MSС,DUB,3288204
+3,Logvinenko Olga,r7r8r7,787767,MSС,DUB,9090198
